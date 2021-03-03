@@ -1,0 +1,7 @@
+C:\Users\Windows\source\repos\NunitH2\NunitH2\bin\Debug\NunitH2.exe.config
+C:\Users\Windows\source\repos\NunitH2\NunitH2\bin\Debug\NunitH2.exe
+C:\Users\Windows\source\repos\NunitH2\NunitH2\bin\Debug\NunitH2.pdb
+C:\Users\Windows\source\repos\NunitH2\NunitH2\obj\Debug\NunitH2.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\NunitH2\NunitH2\obj\Debug\NunitH2.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\NunitH2\NunitH2\obj\Debug\NunitH2.exe
+C:\Users\Windows\source\repos\NunitH2\NunitH2\obj\Debug\NunitH2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Windows\source\repos\NamedParameters\NamedParameters\bin\Debug\NamedParameters.exe.config
+C:\Users\Windows\source\repos\NamedParameters\NamedParameters\bin\Debug\NamedParameters.exe
+C:\Users\Windows\source\repos\NamedParameters\NamedParameters\bin\Debug\NamedParameters.pdb
+C:\Users\Windows\source\repos\NamedParameters\NamedParameters\obj\Debug\NamedParameters.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\NamedParameters\NamedParameters\obj\Debug\NamedParameters.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\NamedParameters\NamedParameters\obj\Debug\NamedParameters.exe
+C:\Users\Windows\source\repos\NamedParameters\NamedParameters\obj\Debug\NamedParameters.pdb

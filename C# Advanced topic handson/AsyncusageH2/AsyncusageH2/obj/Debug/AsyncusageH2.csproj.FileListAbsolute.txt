@@ -1,0 +1,10 @@
+C:\Users\Windows\source\repos\AsyncusageH2\AsyncusageH2\bin\Debug\AsyncusageH2.exe.config
+C:\Users\Windows\source\repos\AsyncusageH2\AsyncusageH2\bin\Debug\AsyncusageH2.exe
+C:\Users\Windows\source\repos\AsyncusageH2\AsyncusageH2\bin\Debug\AsyncusageH2.pdb
+C:\Users\Windows\source\repos\AsyncusageH2\AsyncusageH2\obj\Debug\AsyncusageH2.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\AsyncusageH2\AsyncusageH2\obj\Debug\AsyncusageH2.Form1.resources
+C:\Users\Windows\source\repos\AsyncusageH2\AsyncusageH2\obj\Debug\AsyncusageH2.Properties.Resources.resources
+C:\Users\Windows\source\repos\AsyncusageH2\AsyncusageH2\obj\Debug\AsyncusageH2.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\AsyncusageH2\AsyncusageH2\obj\Debug\AsyncusageH2.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\AsyncusageH2\AsyncusageH2\obj\Debug\AsyncusageH2.exe
+C:\Users\Windows\source\repos\AsyncusageH2\AsyncusageH2\obj\Debug\AsyncusageH2.pdb

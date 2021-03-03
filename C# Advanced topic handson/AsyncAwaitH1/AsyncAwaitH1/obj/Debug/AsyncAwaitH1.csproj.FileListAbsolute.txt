@@ -1,0 +1,7 @@
+C:\Users\Windows\source\repos\AsyncAwaitH1\AsyncAwaitH1\bin\Debug\AsyncAwaitH1.exe.config
+C:\Users\Windows\source\repos\AsyncAwaitH1\AsyncAwaitH1\bin\Debug\AsyncAwaitH1.exe
+C:\Users\Windows\source\repos\AsyncAwaitH1\AsyncAwaitH1\bin\Debug\AsyncAwaitH1.pdb
+C:\Users\Windows\source\repos\AsyncAwaitH1\AsyncAwaitH1\obj\Debug\AsyncAwaitH1.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\AsyncAwaitH1\AsyncAwaitH1\obj\Debug\AsyncAwaitH1.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\AsyncAwaitH1\AsyncAwaitH1\obj\Debug\AsyncAwaitH1.exe
+C:\Users\Windows\source\repos\AsyncAwaitH1\AsyncAwaitH1\obj\Debug\AsyncAwaitH1.pdb

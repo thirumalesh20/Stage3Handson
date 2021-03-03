@@ -1,0 +1,6 @@
+C:\Users\Windows\source\repos\NunitH1\NunitH1\bin\Debug\NunitH1.exe.config
+C:\Users\Windows\source\repos\NunitH1\NunitH1\bin\Debug\NunitH1.exe
+C:\Users\Windows\source\repos\NunitH1\NunitH1\bin\Debug\NunitH1.pdb
+C:\Users\Windows\source\repos\NunitH1\NunitH1\obj\Debug\NunitH1.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\NunitH1\NunitH1\obj\Debug\NunitH1.exe
+C:\Users\Windows\source\repos\NunitH1\NunitH1\obj\Debug\NunitH1.pdb
