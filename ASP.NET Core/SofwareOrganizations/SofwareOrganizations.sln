@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SofwareOrganizations", "SofwareOrganizations\SofwareOrganizations.csproj", "{3960892F-14E7-4DAE-842A-C1ED728DC17C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3960892F-14E7-4DAE-842A-C1ED728DC17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3960892F-14E7-4DAE-842A-C1ED728DC17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3960892F-14E7-4DAE-842A-C1ED728DC17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3960892F-14E7-4DAE-842A-C1ED728DC17C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05809C39-3688-4A86-8CF5-6EECCC399DED}
+	EndGlobalSection
+EndGlobal
