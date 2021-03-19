@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\AbstractFactoryDP\AbstractFactoryDP\bin\Debug\AbstractFactoryDP.exe.config
+C:\Users\Windows\source\repos\AbstractFactoryDP\AbstractFactoryDP\bin\Debug\AbstractFactoryDP.exe
+C:\Users\Windows\source\repos\AbstractFactoryDP\AbstractFactoryDP\bin\Debug\AbstractFactoryDP.pdb
+C:\Users\Windows\source\repos\AbstractFactoryDP\AbstractFactoryDP\bin\Debug\HeadLight.dll
+C:\Users\Windows\source\repos\AbstractFactoryDP\AbstractFactoryDP\bin\Debug\Tire.dll
+C:\Users\Windows\source\repos\AbstractFactoryDP\AbstractFactoryDP\bin\Debug\HeadLight.pdb
+C:\Users\Windows\source\repos\AbstractFactoryDP\AbstractFactoryDP\bin\Debug\Tire.pdb
+C:\Users\Windows\source\repos\AbstractFactoryDP\AbstractFactoryDP\obj\Debug\AbstractFactoryDP.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\AbstractFactoryDP\AbstractFactoryDP\obj\Debug\AbstractFactoryDP.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\AbstractFactoryDP\AbstractFactoryDP\obj\Debug\AbstractFactoryDP.csproj.CopyComplete
+C:\Users\Windows\source\repos\AbstractFactoryDP\AbstractFactoryDP\obj\Debug\AbstractFactoryDP.exe
+C:\Users\Windows\source\repos\AbstractFactoryDP\AbstractFactoryDP\obj\Debug\AbstractFactoryDP.pdb
+C:\Users\Windows\source\repos\AbstractFactoryDP\AbstractFactoryDP\bin\Debug\Factory.dll
+C:\Users\Windows\source\repos\AbstractFactoryDP\AbstractFactoryDP\bin\Debug\Factory.pdb

@@ -1,0 +1,7 @@
+C:\Users\Windows\source\repos\FacadeDP\FacadeDP\bin\Debug\FacadeDP.exe.config
+C:\Users\Windows\source\repos\FacadeDP\FacadeDP\bin\Debug\FacadeDP.exe
+C:\Users\Windows\source\repos\FacadeDP\FacadeDP\bin\Debug\FacadeDP.pdb
+C:\Users\Windows\source\repos\FacadeDP\FacadeDP\obj\Debug\FacadeDP.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\FacadeDP\FacadeDP\obj\Debug\FacadeDP.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\FacadeDP\FacadeDP\obj\Debug\FacadeDP.exe
+C:\Users\Windows\source\repos\FacadeDP\FacadeDP\obj\Debug\FacadeDP.pdb

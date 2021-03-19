@@ -1,0 +1,7 @@
+C:\Users\Windows\source\repos\BuilderDP\BuilderDP\bin\Debug\BuilderDP.exe.config
+C:\Users\Windows\source\repos\BuilderDP\BuilderDP\bin\Debug\BuilderDP.exe
+C:\Users\Windows\source\repos\BuilderDP\BuilderDP\bin\Debug\BuilderDP.pdb
+C:\Users\Windows\source\repos\BuilderDP\BuilderDP\obj\Debug\BuilderDP.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\BuilderDP\BuilderDP\obj\Debug\BuilderDP.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\BuilderDP\BuilderDP\obj\Debug\BuilderDP.exe
+C:\Users\Windows\source\repos\BuilderDP\BuilderDP\obj\Debug\BuilderDP.pdb

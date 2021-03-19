@@ -1,0 +1,7 @@
+C:\Users\Windows\source\repos\ObserverDP\ObserverDP\bin\Debug\ObserverDP.exe.config
+C:\Users\Windows\source\repos\ObserverDP\ObserverDP\bin\Debug\ObserverDP.exe
+C:\Users\Windows\source\repos\ObserverDP\ObserverDP\bin\Debug\ObserverDP.pdb
+C:\Users\Windows\source\repos\ObserverDP\ObserverDP\obj\Debug\ObserverDP.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\ObserverDP\ObserverDP\obj\Debug\ObserverDP.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\ObserverDP\ObserverDP\obj\Debug\ObserverDP.exe
+C:\Users\Windows\source\repos\ObserverDP\ObserverDP\obj\Debug\ObserverDP.pdb

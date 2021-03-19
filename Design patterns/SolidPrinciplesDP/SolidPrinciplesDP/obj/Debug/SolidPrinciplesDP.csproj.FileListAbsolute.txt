@@ -1,0 +1,7 @@
+C:\Users\Windows\source\repos\SolidPrinciplesDP\SolidPrinciplesDP\bin\Debug\SolidPrinciplesDP.exe.config
+C:\Users\Windows\source\repos\SolidPrinciplesDP\SolidPrinciplesDP\bin\Debug\SolidPrinciplesDP.exe
+C:\Users\Windows\source\repos\SolidPrinciplesDP\SolidPrinciplesDP\bin\Debug\SolidPrinciplesDP.pdb
+C:\Users\Windows\source\repos\SolidPrinciplesDP\SolidPrinciplesDP\obj\Debug\SolidPrinciplesDP.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\SolidPrinciplesDP\SolidPrinciplesDP\obj\Debug\SolidPrinciplesDP.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\SolidPrinciplesDP\SolidPrinciplesDP\obj\Debug\SolidPrinciplesDP.exe
+C:\Users\Windows\source\repos\SolidPrinciplesDP\SolidPrinciplesDP\obj\Debug\SolidPrinciplesDP.pdb

@@ -1,0 +1,7 @@
+C:\Users\Windows\source\repos\Practice_CaseStudy_Adapter_Dp\Practice_CaseStudy_Adapter_Dp\bin\Debug\Practice_CaseStudy_Adapter_Dp.exe.config
+C:\Users\Windows\source\repos\Practice_CaseStudy_Adapter_Dp\Practice_CaseStudy_Adapter_Dp\bin\Debug\Practice_CaseStudy_Adapter_Dp.exe
+C:\Users\Windows\source\repos\Practice_CaseStudy_Adapter_Dp\Practice_CaseStudy_Adapter_Dp\bin\Debug\Practice_CaseStudy_Adapter_Dp.pdb
+C:\Users\Windows\source\repos\Practice_CaseStudy_Adapter_Dp\Practice_CaseStudy_Adapter_Dp\obj\Debug\Practice_CaseStudy_Adapter_Dp.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\Practice_CaseStudy_Adapter_Dp\Practice_CaseStudy_Adapter_Dp\obj\Debug\Practice_CaseStudy_Adapter_Dp.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Practice_CaseStudy_Adapter_Dp\Practice_CaseStudy_Adapter_Dp\obj\Debug\Practice_CaseStudy_Adapter_Dp.exe
+C:\Users\Windows\source\repos\Practice_CaseStudy_Adapter_Dp\Practice_CaseStudy_Adapter_Dp\obj\Debug\Practice_CaseStudy_Adapter_Dp.pdb

@@ -1,0 +1,6 @@
+C:\Users\Windows\source\repos\AbstractFactoryDP\Tire\bin\Debug\Tire.dll
+C:\Users\Windows\source\repos\AbstractFactoryDP\Tire\bin\Debug\Tire.pdb
+C:\Users\Windows\source\repos\AbstractFactoryDP\Tire\obj\Debug\Tire.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\AbstractFactoryDP\Tire\obj\Debug\Tire.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\AbstractFactoryDP\Tire\obj\Debug\Tire.dll
+C:\Users\Windows\source\repos\AbstractFactoryDP\Tire\obj\Debug\Tire.pdb

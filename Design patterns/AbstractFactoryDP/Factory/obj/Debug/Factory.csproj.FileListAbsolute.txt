@@ -1,0 +1,11 @@
+C:\Users\Windows\source\repos\AbstractFactoryDP\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\AbstractFactoryDP\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\AbstractFactoryDP\Factory\bin\Debug\Factory.dll
+C:\Users\Windows\source\repos\AbstractFactoryDP\Factory\bin\Debug\Factory.pdb
+C:\Users\Windows\source\repos\AbstractFactoryDP\Factory\bin\Debug\HeadLight.dll
+C:\Users\Windows\source\repos\AbstractFactoryDP\Factory\bin\Debug\Tire.dll
+C:\Users\Windows\source\repos\AbstractFactoryDP\Factory\bin\Debug\HeadLight.pdb
+C:\Users\Windows\source\repos\AbstractFactoryDP\Factory\bin\Debug\Tire.pdb
+C:\Users\Windows\source\repos\AbstractFactoryDP\Factory\obj\Debug\Factory.csproj.CopyComplete
+C:\Users\Windows\source\repos\AbstractFactoryDP\Factory\obj\Debug\Factory.dll
+C:\Users\Windows\source\repos\AbstractFactoryDP\Factory\obj\Debug\Factory.pdb

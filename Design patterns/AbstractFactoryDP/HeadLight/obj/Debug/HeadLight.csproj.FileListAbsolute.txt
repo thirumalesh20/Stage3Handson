@@ -1,0 +1,6 @@
+C:\Users\Windows\source\repos\AbstractFactoryDP\HeadLight\bin\Debug\HeadLight.dll
+C:\Users\Windows\source\repos\AbstractFactoryDP\HeadLight\bin\Debug\HeadLight.pdb
+C:\Users\Windows\source\repos\AbstractFactoryDP\HeadLight\obj\Debug\HeadLight.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\AbstractFactoryDP\HeadLight\obj\Debug\HeadLight.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\AbstractFactoryDP\HeadLight\obj\Debug\HeadLight.dll
+C:\Users\Windows\source\repos\AbstractFactoryDP\HeadLight\obj\Debug\HeadLight.pdb

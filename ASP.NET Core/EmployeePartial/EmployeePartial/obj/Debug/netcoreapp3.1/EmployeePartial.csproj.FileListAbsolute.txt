@@ -37,3 +37,42 @@ C:\Users\Windows\source\repos\EmployeePartial\EmployeePartial\obj\Debug\netcorea
 C:\Users\Windows\source\repos\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.genruntimeconfig.cache
 C:\Users\Windows\source\repos\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.csproj.CopyComplete
 C:\Users\Windows\source\repos\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\Razor\Views\Home\_EmployeeList.cshtml.g.cs
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\bin\Debug\netcoreapp3.1\EmployeePartial.exe
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\bin\Debug\netcoreapp3.1\EmployeePartial.deps.json
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\bin\Debug\netcoreapp3.1\EmployeePartial.runtimeconfig.json
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\bin\Debug\netcoreapp3.1\EmployeePartial.runtimeconfig.dev.json
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\bin\Debug\netcoreapp3.1\EmployeePartial.dll
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\bin\Debug\netcoreapp3.1\EmployeePartial.pdb
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\bin\Debug\netcoreapp3.1\EmployeePartial.Views.dll
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\bin\Debug\netcoreapp3.1\EmployeePartial.Views.pdb
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.csprojAssemblyReference.cache
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.AssemblyInfoInputs.cache
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.AssemblyInfo.cs
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.RazorAssemblyInfo.cache
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.RazorAssemblyInfo.cs
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\staticwebassets\EmployeePartial.StaticWebAssets.Manifest.cache
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\staticwebassets\EmployeePartial.StaticWebAssets.xml
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmployeePartial.styles.css
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.TagHelpers.input.cache
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.TagHelpers.output.cache
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.RazorCoreGenerate.cache
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetEmployeeList.cshtml.g.cs
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\Razor\Views\Home\_EmployeeList.cshtml.g.cs
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.RazorTargetAssemblyInfo.cache
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.RazorTargetAssemblyInfo.cs
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.Views.pdb
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.dll
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.pdb
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.genruntimeconfig.cache
+C:\Users\Windows\OneDrive\Desktop\Thirumalesh Handson\Stage3Handson\ASP.NET Core\EmployeePartial\EmployeePartial\obj\Debug\netcoreapp3.1\EmployeePartial.csproj.CopyComplete

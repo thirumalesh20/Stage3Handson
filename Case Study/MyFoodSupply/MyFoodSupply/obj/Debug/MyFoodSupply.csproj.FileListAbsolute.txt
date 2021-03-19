@@ -1,0 +1,6 @@
+C:\Users\Windows\source\repos\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe.config
+C:\Users\Windows\source\repos\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe
+C:\Users\Windows\source\repos\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.pdb
+C:\Users\Windows\source\repos\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.exe
+C:\Users\Windows\source\repos\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.pdb

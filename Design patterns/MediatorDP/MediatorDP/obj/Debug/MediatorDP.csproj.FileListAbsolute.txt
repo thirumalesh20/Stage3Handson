@@ -1,0 +1,7 @@
+C:\Users\Windows\source\repos\MediatorDP\MediatorDP\bin\Debug\MediatorDP.exe.config
+C:\Users\Windows\source\repos\MediatorDP\MediatorDP\bin\Debug\MediatorDP.exe
+C:\Users\Windows\source\repos\MediatorDP\MediatorDP\bin\Debug\MediatorDP.pdb
+C:\Users\Windows\source\repos\MediatorDP\MediatorDP\obj\Debug\MediatorDP.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\MediatorDP\MediatorDP\obj\Debug\MediatorDP.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\MediatorDP\MediatorDP\obj\Debug\MediatorDP.exe
+C:\Users\Windows\source\repos\MediatorDP\MediatorDP\obj\Debug\MediatorDP.pdb

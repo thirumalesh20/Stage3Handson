@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowServiceUsage", "WindowServiceUsage\WindowServiceUsage.csproj", "{5C4E0F99-AA5D-4ECA-9F86-724014E98670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4E0F99-AA5D-4ECA-9F86-724014E98670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4E0F99-AA5D-4ECA-9F86-724014E98670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4E0F99-AA5D-4ECA-9F86-724014E98670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4E0F99-AA5D-4ECA-9F86-724014E98670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {707C237B-45E7-4A7A-8A4C-AB7E4AFF989C}
+	EndGlobalSection
+EndGlobal
