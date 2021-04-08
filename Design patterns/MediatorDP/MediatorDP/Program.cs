@@ -27,7 +27,7 @@ namespace MediatorDP
             chat.AddUser(User2);
             chat.AddUser(User3);
 
-
+            chat.Rec(User2, "'Hello'");
 
             chat.SendMessage(User3, "'Hello'" );
             chat.SendMessage(User1, "'Hello'" );

@@ -19,7 +19,7 @@ namespace MediatorDP
         public void RecieveMesage(IUser u, string message)
         {
 
-            Console.WriteLine(message + " sent by " + u.Name);
+            Console.WriteLine(message + " Recived by" + u.Name);
         }
 
         public void SendMesage(string message)

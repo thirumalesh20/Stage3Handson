@@ -10,6 +10,7 @@ namespace MediatorDP
     {
         void AddUser(IUser user);
         void SendMessage(IUser user, string msg);
+        
     }
 
 
@@ -28,6 +29,7 @@ namespace MediatorDP
             {
                 if (User != user)
                     user.RecieveMesage(user, msg);
+                    
             }
         }
     }
